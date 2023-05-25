@@ -1,0 +1,39 @@
+#contenedor-usuario {
+
+    color: white;
+    font-size: x-large;
+    background-color: #161b22;
+    /* text-align: center; */
+    place-content: center;
+    border: 1px solid gray;
+    border-radius: 7px;
+    padding: 13px;
+    display: grid;
+}
+
+body {
+    background-color: black;
+    color: aliceblue;
+    display: grid;
+    place-content: center;
+
+}
+
+input {
+    border-radius: 7px;
+    background-color: #161b22;
+    color: #e6edf3;
+    height: 13px; 
+    font-size: 10px;
+
+}
+
+button {
+
+    background-color: #238636;
+    color: whitesmoke;
+    padding: 4px 0px 4px 0px;
+    font-size: 10px;
+    border-radius: 7px;
+}
+
